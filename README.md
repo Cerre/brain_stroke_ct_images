@@ -68,4 +68,4 @@ The notebook includes steps to evaluate the trained model's performance using me
 *   Confusion Matrix
 *   Classification Report
 
-The model achieved approximately 92% accuracy on the test set for the binary classification task of distinguishing between 'Normal' and 'Not Normal' (Bleeding or Ischemia).
+The model achieved approximately 93% accuracy on the test set for the binary classification task of distinguishing between 'Normal' and 'Not Normal' (Bleeding or Ischemia).
